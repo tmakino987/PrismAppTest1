@@ -1,0 +1,12 @@
+D:\source\GitHub\PrismAppTest1\PrismAppTest1\PrismAppTest1\PrismAppTest1\bin\Debug\netstandard2.0\PrismAppTest1.deps.json
+D:\source\GitHub\PrismAppTest1\PrismAppTest1\PrismAppTest1\PrismAppTest1\bin\Debug\netstandard2.0\PrismAppTest1.dll
+D:\source\GitHub\PrismAppTest1\PrismAppTest1\PrismAppTest1\PrismAppTest1\bin\Debug\netstandard2.0\PrismAppTest1.pdb
+D:\source\GitHub\PrismAppTest1\PrismAppTest1\PrismAppTest1\PrismAppTest1\obj\Debug\netstandard2.0\PrismAppTest1.csprojAssemblyReference.cache
+D:\source\GitHub\PrismAppTest1\PrismAppTest1\PrismAppTest1\PrismAppTest1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\source\GitHub\PrismAppTest1\PrismAppTest1\PrismAppTest1\PrismAppTest1\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\source\GitHub\PrismAppTest1\PrismAppTest1\PrismAppTest1\PrismAppTest1\obj\Debug\netstandard2.0\PrismAppTest1.csproj.CoreCompileInputs.cache
+D:\source\GitHub\PrismAppTest1\PrismAppTest1\PrismAppTest1\PrismAppTest1\obj\Debug\netstandard2.0\PrismAppTest1.AssemblyInfoInputs.cache
+D:\source\GitHub\PrismAppTest1\PrismAppTest1\PrismAppTest1\PrismAppTest1\obj\Debug\netstandard2.0\PrismAppTest1.AssemblyInfo.cs
+D:\source\GitHub\PrismAppTest1\PrismAppTest1\PrismAppTest1\PrismAppTest1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\source\GitHub\PrismAppTest1\PrismAppTest1\PrismAppTest1\PrismAppTest1\obj\Debug\netstandard2.0\PrismAppTest1.dll
+D:\source\GitHub\PrismAppTest1\PrismAppTest1\PrismAppTest1\PrismAppTest1\obj\Debug\netstandard2.0\PrismAppTest1.pdb
