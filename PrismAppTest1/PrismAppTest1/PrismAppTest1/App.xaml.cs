@@ -30,6 +30,7 @@ namespace PrismAppTest1
         {
             containerRegistry.RegisterForNavigation<NavigationPage>();
             containerRegistry.RegisterForNavigation<MainPage, MainPageViewModel>();
+            containerRegistry.RegisterForNavigation<PrismContentPage1, PrismContentPage1ViewModel>();
         }
     }
 }

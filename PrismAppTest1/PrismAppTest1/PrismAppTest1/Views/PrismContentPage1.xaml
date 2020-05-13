@@ -1,13 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="PrismAppTest1.Views.MainPage"
-             Title="{Binding Title}">
-
+             xmlns:prism="http://prismlibrary.com"
+             prism:ViewModelLocator.AutowireViewModel="True"
+             x:Class="PrismAppTest1.Views.PrismContentPage1">
+    
     <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
-        <Label Text="{Binding LabelC}" />
-        <Button Text="button c" Command="{Binding ButtonCCommand}"/>
-        <Button Text="Next page" Command="{Binding ShowNextPageCommand}"/>
+        <Label Text="{Binding NextText}" />
     </StackLayout>
-
 </ContentPage>

@@ -10,13 +10,13 @@ namespace PrismAppTest1.ViewModels
 {
     public class MainPageViewModel : ViewModelBase
     {
-        public MainPageViewModel(INavigationService navigationService)
-            : base(navigationService)
+        public MainPageViewModel(INavigationService navigationService) : base(navigationService)
         {
             Title = "Main Page";
             LabelC = "Test";
 
             ButtonCCommand = new DelegateCommand(relayButtonC);
+            ShowNextPageCommand = new DelegateCommand(relayShowNextPage);
         }
 
         private string _labelC = string.Empty;
@@ -27,10 +27,16 @@ namespace PrismAppTest1.ViewModels
         }
 
         public DelegateCommand ButtonCCommand { get; set; }
+        public DelegateCommand ShowNextPageCommand { get; set; }
 
         private void relayButtonC()
         {
             LabelC = "EEE";
+        }
+
+        private void relayShowNextPage()
+        {
+            NavigationService.NavigateAsync(nameof(Views.PrismContentPage1));
         }
     }
 }
